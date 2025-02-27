@@ -1,8 +1,7 @@
-
-  "routes": [
-    {
-      "src": "/.*",
-      "dest": "/api/router.go"
+{
+  "建造": {
+    "env": {
+      "去建造旗帜": "-ldflags '-s -w'"
     }
-  ]
+  }
 }
