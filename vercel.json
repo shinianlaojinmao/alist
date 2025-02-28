@@ -1,7 +1,7 @@
 {
-  "建造": {
+  "build": {
     "env": {
-      "去建造旗帜": "-ldflags '-s -w'"
+      "GO_BUILD_FLAGS": "-ldflags '-s -w'"
     }
   }
 }
